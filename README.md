@@ -14,7 +14,7 @@
 ##internal pages
 ###page.php
 - header
-- content
+- content-pages
 - footer
 
 ##posts
@@ -22,11 +22,3 @@
 - header
 - single-content 
 - footer
-
-
-
-Important: You must have Node.js (http://blog.teamtreehouse.com/install-node-js-npm-mac), Grunt-CLI ("npm install -g grunt cli") and Sass ("gem install sass") already installed to use this workflow. 
-
-OBS: Tested using MAMP with it's default settings. 
-
-Check http://underscores.me/ for more information about the theme.
