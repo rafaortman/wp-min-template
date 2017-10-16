@@ -1,0 +1,23 @@
+{
+  "name": "underscoresass",
+  "version": "1.0.0",
+  "description": "WordPress Theme Developmente using Underscored, Sass & Grunt",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaortman/underscores-sass-grunt.git"
+  },
+  "keywords": [
+    "sass",
+    "grunt",
+    "auto-prefixer"
+  ],
+  "author": "Rafa Ortman <http://rafaortman.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
